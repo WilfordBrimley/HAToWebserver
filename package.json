@@ -1,0 +1,14 @@
+{
+  "name": "filetieha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tofile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lovecraft",
+  "license": "WTFPL",
+  "dependencies": {
+    "homeassistant": "^0.2.0"
+  }
+}
